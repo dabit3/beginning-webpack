@@ -1,5 +1,7 @@
 # Beginner's Guide to Webpack Repo
 
+> This tutorial uses Babel 6
+
 #### This goes along with the medium post [Beginner's Guide to Webpack](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460)
 
 ##### To get started with this project, do the following:
